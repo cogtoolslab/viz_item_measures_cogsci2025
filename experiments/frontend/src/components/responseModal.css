@@ -1,0 +1,32 @@
+#response-modal {
+	/* opacity: 1; */
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-out;
+	animation-duration: 1.5s;
+	animation-fill-mode: forwards; 
+}
+canvas {
+	/* opacity: 1; */
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+	animation-timing-function: ease-out;
+	animation-duration: 1.5s;
+}
+
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	10% {
+		opacity: 1;
+	}
+	70% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
