@@ -168,3 +168,4 @@ venv.bak/
 
 !participant_responses.csv
 !experiments.csv
+!/analysis/dataframes/*.csv

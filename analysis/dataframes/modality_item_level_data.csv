@@ -1,0 +1,105 @@
+,question_image,category,is_correct
+0,Do all of these planets have the same life expectancy? + bg-12.svg,graph - brbf,0.9655172413793104
+1,Do all of these planets have the same life expectancy? + bg-5.svg,graph - brbf,0.963855421686747
+2,Do all of these planets have the same life expectancy? + bg-table-3.png,table - brbf,0.9880952380952381
+3,Do all of these planets have the same life expectancy? + bg-table-9.png,table - brbf,0.9397590361445783
+4,Does expenditure per primary student generally have a positive impact on adult literacy in this group of planets? + sp-3.svg,graph - brbf,0.6904761904761905
+5,Does expenditure per primary student generally have a positive impact on adult literacy in this group of planets? + sp-table-3.png,table - brbf,0.8554216867469879
+6,Does expenditure per primary student seem to have a positive impact on adult literacy on planet Kithrup? + sp-table-9.png,table - brbf,0.8255813953488372
+7,Does expenditure per primary student seem to have a positive impact on adult literacy on planet Maarin? + sp-6.svg,graph - brbf,0.7625
+8,"Even though there has been some variation, has the unemployment trend generally increased on all of these planets since the beginning of this time period? + lg1-9.svg",graph - brbf,0.8023255813953488
+9,"Even though there has been some variation, has the unemployment trend generally increased on all of these planets since the beginning of this time period? + lg1-table-3.png",table - brbf,0.7349397590361446
+10,"Even though there has been some variation, has the unemployment trend generally increased on planet Alyosius since the beginning of this time period? + lg1-3.svg",graph - brbf,0.8470588235294118
+11,"Even though there has been some variation, has the unemployment trend generally increased on planet Vincetori since the beginning of this time period? + lg1-table-9.png",table - brbf,0.8255813953488372
+12,"Even though there has been some variation, where has the unemployment trend generally increased the most since the beginning of this time period? + lg1-7.svg",graph - brbf,0.5882352941176471
+13,"Even though there has been some variation, where has the unemployment trend generally increased the most since the beginning of this time period? + lg1-table-6.png",table - brbf,0.40963855421686746
+14,How many months have less than 40mm of rain? + bar.png,graph - wainer,0.43529411764705883
+15,How many months have less than 40mm of rain? + line.png,graph - wainer,0.22727272727272727
+16,How many months have less than 40mm of rain? + radial.png,graph - wainer,0.7738095238095238
+17,How many months have less than 40mm of rain? + table.png,table - wainer,0.7529411764705882
+18,How many months have more rain than the average month? + bar.png,graph - wainer,0.8588235294117647
+19,How many months have more rain than the average month? + line.png,graph - wainer,0.7391304347826086
+20,How many months have more rain than the average month? + radial.png,graph - wainer,0.7294117647058823
+21,How many months have more rain than the average month? + table.png,table - wainer,0.7058823529411765
+22,How many planets spend approximately the same amount on primary students as planet Trigus but have a higher percentage of literate adults? + sp-table-12.png,table - brbf,0.47560975609756095
+23,How many planets spend approximately the same amount on primary students as planet Wobb but have a higher percentage of literate adults? + sp-1.svg,graph - brbf,0.47560975609756095
+24,How much does it rain in March? + bar.png,graph - wainer,0.9294117647058824
+25,How much does it rain in March? + line.png,graph - wainer,0.7976190476190477
+26,How much does it rain in March? + radial.png,graph - wainer,0.9294117647058824
+27,How much does it rain in March? + table.png,table - wainer,0.9294117647058824
+28,"In San Francisco, as the weather gets warmer, there is generally more rain. + bar.png",graph - wainer,0.8160919540229885
+29,"In San Francisco, as the weather gets warmer, there is generally more rain. + line.png",graph - wainer,0.7831325301204819
+30,"In San Francisco, as the weather gets warmer, there is generally more rain. + radial.png",graph - wainer,0.8072289156626506
+31,"In San Francisco, as the weather gets warmer, there is generally more rain. + table.png",table - wainer,0.9047619047619048
+32,In which season does each month have less rain than the month before? + bar.png,graph - wainer,0.5813953488372093
+33,In which season does each month have less rain than the month before? + line.png,graph - wainer,0.34523809523809523
+34,In which season does each month have less rain than the month before? + radial.png,graph - wainer,0.38372093023255816
+35,In which season does each month have less rain than the month before? + table.png,table - wainer,0.573170731707317
+36,On how many planets does high expenditure per primary student seem to have a high positive impact on adult literacy? + sp-4.svg,graph - brbf,0.6190476190476191
+37,On how many planets does high expenditure per primary student seem to have a high positive impact on adult literacy? + sp-table-6.png,table - brbf,0.3068181818181818
+38,On which planet does high expenditure per primary student lead to the highest adult literacy? + sp-10.svg,graph - brbf,0.8690476190476191
+39,On which planet does high expenditure per primary student lead to the highest adult literacy? + sp-table-1.png,table - brbf,0.8571428571428571
+40,On which planet does low expenditure per primary student have the worst impact on adult literacy? + sp-2.svg,graph - brbf,0.7325581395348837
+41,On which planet does low expenditure per primary student have the worst impact on adult literacy? + sp-table-2.png,table - brbf,0.7865168539325843
+42,What has the average unemployment rate been on planet Konom since the beginning of this time period? + lg1-table-11.png,table - brbf,0.3132530120481928
+43,What has the average unemployment rate been on planet Voreg since the beginning of this time period? + lg1-2.svg,graph - brbf,0.5925925925925926
+44,What has the general average unemployment rate been on this group of planets since the beginning of this time period? + lg1-8.svg,graph - brbf,0.5340909090909091
+45,What has the general average unemployment rate been on this group of planets since the beginning of this time period? + lg1-table-5.png,table - brbf,0.36046511627906974
+46,What is the approximate average adult literacy in this group of planets? + sp-12.svg,graph - brbf,0.5238095238095238
+47,What is the approximate average adult literacy in this group of planets? + sp-table-5.png,table - brbf,0.6896551724137931
+48,What is the approximate average life expectancy on this group of planets? + bg-1.svg,graph - brbf,0.4222222222222222
+49,What is the approximate average life expectancy on this group of planets? + bg-4.svg,graph - brbf,0.40963855421686746
+50,What is the approximate average life expectancy on this group of planets? + bg-table-11.png,table - brbf,0.5542168674698795
+51,What is the approximate average life expectancy on this group of planets? + bg-table-5.png,table - brbf,0.4823529411764706
+52,What is the average adult literacy on the 5 planets that spend the most on primary students? + sp-7.svg,graph - brbf,0.4024390243902439
+53,What is the average adult literacy on the 5 planets that spend the most on primary students? + sp-table-11.png,table - brbf,0.23809523809523808
+54,When did the highest increase in the unemployment trend occur on planet Kallu since the beginning of this time period? + lg1-table-12.png,table - brbf,0.4659090909090909
+55,When did the highest increase in the unemployment trend occur on planet Nurag since the beginning of this time period? + lg1-5.svg,graph - brbf,0.25882352941176473
+56,When did unemployment first go above 6.9 on planet Mandel? + lg1-6.svg,graph - brbf,0.2
+57,When did unemployment first go above 9.9 on planet Tun? + lg1-table-10.png,table - brbf,0.7816091954022989
+58,When was unemployment at its highest peak on planet Durla? + lg1-table-7.png,table - brbf,0.7901234567901234
+59,When was unemployment at its highest peak on planet Karna? + lg1-10.svg,graph - brbf,0.38095238095238093
+60,When was unemployment at its lowest peak on planet Kreno? + lg1-12.svg,graph - brbf,0.4146341463414634
+61,When was unemployment at its lowest peak on planet Quake? + lg1-table-8.png,table - brbf,0.75
+62,Where did unemployment first go above 10.1? + lg1-table-4.png,table - brbf,0.5955056179775281
+63,Where did unemployment first go above 6.8? + lg1-11.svg,graph - brbf,0.8705882352941177
+64,Where did unemployment reach its highest peak since the beginning of this time period? + lg1-1.svg,graph - brbf,0.8588235294117647
+65,Where did unemployment reach its highest peak since the beginning of this time period? + lg1-table-1.png,table - brbf,0.8352941176470589
+66,Where did unemployment reach its lowest peak since the beginning of this time period? + lg1-4.svg,graph - brbf,0.735632183908046
+67,Where did unemployment reach its lowest peak since the beginning of this time period? + lg1-table-2.png,table - brbf,0.7931034482758621
+68,Where is life expectancy roughly 61? + bg-9.svg,graph - brbf,0.898876404494382
+69,Where is life expectancy roughly 66? + bg-11.svg,graph - brbf,0.8170731707317073
+70,Where is life expectancy roughly 66? + bg-table-10.png,table - brbf,0.9523809523809523
+71,Where is life expectancy roughly 79? + bg-table-4.png,table - brbf,0.75
+72,"Which group of 2 planets (either green, red, or orange) has the biggest difference in life expectancy? + bg-10.svg",graph - brbf,0.7901234567901234
+73,"Which group of 2 planets (either green, red, or orange) has the biggest difference in life expectancy? + bg-table-6.png",table - brbf,0.8024691358024691
+74,"Which group of 2 planets (either red, orange, green, purple, brown, or pink) has the biggest difference in life expectancy? + bg-2.svg",graph - brbf,0.6
+75,"Which group of 2 planets (either red, orange, green, purple, brown, or pink) has the biggest difference in life expectancy? + bg-table-12.png",table - brbf,0.627906976744186
+76,Which month has 25 mm of rain? + bar.png,graph - wainer,0.9506172839506173
+77,Which month has 25 mm of rain? + line.png,graph - wainer,0.7108433734939759
+78,Which month has 25 mm of rain? + radial.png,graph - wainer,0.9058823529411765
+79,Which month has 25 mm of rain? + table.png,table - wainer,0.9886363636363636
+80,Which planet has the highest life expectancy? + bg-3.svg,graph - brbf,0.9761904761904762
+81,Which planet has the highest life expectancy? + bg-7.svg,graph - brbf,0.8941176470588236
+82,Which planet has the highest life expectancy? + bg-table-1.png,table - brbf,0.9166666666666666
+83,Which planet has the highest life expectancy? + bg-table-7.png,table - brbf,0.8795180722891566
+84,Which planet has the lowest adult literacy? + sp-9.svg,graph - brbf,0.9186046511627907
+85,Which planet has the lowest adult literacy? + sp-table-8.png,table - brbf,0.8488372093023255
+86,Which planet has the lowest life expectancy? + bg-6.svg,graph - brbf,0.9047619047619048
+87,Which planet has the lowest life expectancy? + bg-8.svg,graph - brbf,0.9534883720930233
+88,Which planet has the lowest life expectancy? + bg-table-2.png,table - brbf,0.8372093023255814
+89,Which planet has the lowest life expectancy? + bg-table-8.png,table - brbf,0.04819277108433735
+90,Which planet spends approximately 22% of its GDP on primary students? + sp-8.svg,graph - brbf,0.6705882352941176
+91,Which planet spends approximately 6% of its GDP on primary students? + sp-table-10.png,table - brbf,0.8928571428571429
+92,"Which planet spends less than 6.0% of its GDP on primary students, yet has a highly literate adult population? + sp-table-4.png",table - brbf,0.813953488372093
+93,"Which planet spends less than 8.0% of its GDP on primary students, yet has a highly literate adult population? + sp-11.svg",graph - brbf,0.7126436781609196
+94,Which planet spends the most on its primary students? + sp-5.svg,graph - brbf,0.5568181818181818
+95,Which planet spends the most on its primary students? + sp-table-7.png,table - brbf,0.8536585365853658
+96,"Which season has more rain, the summer or the spring? + bar.png",graph - wainer,0.9438202247191011
+97,"Which season has more rain, the summer or the spring? + line.png",graph - wainer,0.8928571428571429
+98,"Which season has more rain, the summer or the spring? + radial.png",graph - wainer,0.9418604651162791
+99,"Which season has more rain, the summer or the spring? + table.png",table - wainer,0.9294117647058824
+100,Which season has the most rain? + bar.png,graph - wainer,0.9642857142857143
+101,Which season has the most rain? + line.png,graph - wainer,0.8375
+102,Which season has the most rain? + radial.png,graph - wainer,0.8658536585365854
+103,Which season has the most rain? + table.png,table - wainer,0.9438202247191011
