@@ -1,6 +1,5 @@
-# Project Template
+# Measuring and predicting variation in the difficulty of questions about data visualizations
 
-This is an example of how a cogtoolslab project repo should be organized.
 
 It contains several subdirectories that will contain standard elements of almost every project:
 
