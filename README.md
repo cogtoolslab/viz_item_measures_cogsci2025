@@ -1,6 +1,6 @@
 # Measuring and predicting variation in the difficulty of questions about data visualizations
 
-This repository contains code to reproduce the results in our CogSci 2025 paper, [*Measuring and predicting variation in the difficulty of questions about data visualizations*](/paper/vlm_datavis_benchmark_corrected_cogsci2024.pdf).
+This repository contains code to reproduce the results in our CogSci 2025 paper, [*Measuring and predicting variation in the difficulty of questions about data visualizations*](/paper/vis_item_measures_cogsci2025.pdf).
 
 Directory Structure
 

@@ -1,3 +1,4 @@
+
 ## ignoring by default
 .DS_Store
 .ipynb_checkpoints/
@@ -164,3 +165,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+!participant_responses.csv
+!experiments.csv
