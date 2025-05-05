@@ -10,7 +10,7 @@ Directory Structure
 ├── data
 ├── experiments
 │   ├── api  
-│   ├── model_inference
+│   ├── frontend
 ├── paper
 ├── results
 │   ├── dataframe
